@@ -36,6 +36,21 @@
 10. Mit Salz und Pfeffer abschmecken.
 11. Spaghetti nach Packungsangabe kochen. Mit Sauce und frisch geriebenem Parmesan servieren.
 
+### Vegane Variante
+**Protein pro Portion:** ~28g
+**Tags:** pasta, vegan, italienisch
+
+Ersetze folgende Zutaten:
+- 250g Rinderhackfleisch → 250g veganes Hack (z.B. Beyond Meat oder Hack von Like Meat)
+- 75g Pancetta → weglassen (oder 1 TL geräuchertes Paprikapulver für Tiefe)
+- 100ml Rinderbrühe → 100ml Gemüsebrühe
+- Parmesan → veganer Parmesan oder Hefeflocken
+
+Zubereitung wie oben, mit folgenden Anpassungen:
+- Schritt 2 entfällt (kein Speck). Direkt mit Zwiebel, Möhre und Sellerie starten.
+- Schritt 5: Veganes Hack hinzufügen und nur 5–6 Minuten anbraten (es zerfällt schneller als Fleisch).
+- Geräuchertes Paprikapulver in Schritt 6 zusammen mit dem Tomatenmark einrühren (falls verwendet).
+
 ---
 
 ## Knuspriger Tofu mit süß-scharfer Sauce, Brokkoli und Kokosreis
@@ -254,38 +269,6 @@
 
 ---
 
-## Rote Linsensuppe mit Kokosmilch
-**Portionen:** 2
-**Protein pro Portion:** ~18g
-**Tags:** vegan, suppe, ein-topf, linsen
-**Zeit:** ~30 Min.
-
-### Zutaten
-- 150g rote Linsen
-- 1 kleine Zwiebel, gewürfelt
-- 2 Knoblauchzehen, gepresst
-- 1 TL frischer Ingwer, gerieben
-- 1 EL Tomatenmark
-- 1 TL Kreuzkümmel (gemahlen)
-- 1 TL Kurkuma
-- ½ TL Chiliflocken
-- 400ml Kokosmilch
-- 300ml Gemüsebrühe
-- 1 EL Olivenöl
-- Salz und Pfeffer
-- Saft von ½ Zitrone
-- Frischer Koriander (zum Servieren)
-
-### Zubereitung
-1. Öl in einem Topf bei mittlerer Hitze erhitzen. Zwiebel 5 Minuten weich dünsten.
-2. Knoblauch, Ingwer, Kreuzkümmel, Kurkuma und Chiliflocken hinzugeben. 1–2 Minuten anrösten.
-3. Tomatenmark einrühren und 1 Minute mitrösten.
-4. Linsen, Kokosmilch und Brühe hinzugießen. Aufkochen, dann bei niedriger Hitze 20 Minuten köcheln, bis die Linsen weich sind.
-5. Mit Zitronensaft, Salz und Pfeffer abschmecken. Nach Wunsch leicht pürieren für eine cremigere Konsistenz.
-6. Mit Koriander servieren. Schmeckt am nächsten Tag noch besser.
-
----
-
 ## Hähnchen-Gemüse-Eintopf
 **Portionen:** 2
 **Protein pro Portion:** ~31g
@@ -344,6 +327,33 @@
 5. Kichererbsen hinzufügen und 10 Minuten köcheln lassen.
 6. Garam Masala und Spinat unterrühren. 2 Minuten köcheln, bis der Spinat zusammengefallen ist. Mit Salz abschmecken.
 7. Mit Basmatireis servieren. Wird im Kühlschrank noch aromatischer.
+
+---
+
+## Türkische rote Linsensuppe
+**Portionen:** 4
+**Protein pro Portion:** ~13g
+**Tags:** vegan, suppe, ein-topf, linsen, türkisch
+**Zeit:** ~30 Min.
+
+### Zutaten
+- 250g rote Linsen
+- 1 Zwiebel, gehackt
+- 1 Knoblauchzehe, gehackt
+- 1 große Karotte, gewürfelt
+- 1 große Kartoffel, gewürfelt
+- 2 EL Butter
+- 1 EL Tomatenmark
+- 1,25 L Gemüsebrühe
+- Salz und Pfeffer
+- 1 Zitrone, in Spalten (zum Servieren)
+
+### Zubereitung
+1. Linsen abspülen. Zwiebel und Knoblauch hacken. Karotte und Kartoffel würfeln.
+2. Butter in einem Topf erhitzen. Linsen, Zwiebel, Knoblauch, Karotte, Kartoffel und Tomatenmark kurz unter Rühren anschwitzen.
+3. Mit Brühe ablöschen und ca. 20 Minuten bei geringer Hitze köcheln lassen, bis die Linsen gar sind.
+4. Pürieren, dann mit Salz und Pfeffer abschmecken.
+5. Mit Zitronenspalten servieren.
 
 ---
 
@@ -409,3 +419,102 @@
 5. Erdnussbutter einrühren, dann Kokosmilch und Dosentomaten hinzugießen. Gut verrühren.
 6. Sojasoße und Honig hinzugeben. Bei mittlerer Hitze 15 Minuten köcheln, bis die Sauce cremig eingedickt ist.
 7. Mit Salz und Pfeffer abschmecken. Auf Jasminreis servieren, mit Frühlingszwiebeln und gerösteten Erdnüssen bestreuen.
+
+---
+
+## Marry Me Halloumi
+**Portionen:** 2
+**Protein pro Portion:** ~28g
+**Tags:** halloumi, vegetarisch, cremig, ein-topf
+**Zeit:** ~25 Min.
+
+### Zutaten
+- 1 Block Halloumi (ca. 225g), in dicke Scheiben geschnitten
+- 1 EL Butter
+- 1 EL Öl (aus dem Glas der getrockneten Tomaten)
+- 6 Knoblauchzehen, gerieben
+- 1 weiße Zwiebel, fein gewürfelt
+- ca. 75g getrocknete Tomaten (halbes Glas)
+- 200ml Hühner- oder Gemüsebrühe
+- Saft von 1 Zitrone
+- 1 EL geräuchertes Paprikapulver
+- 1 EL getrockneter Oregano
+- 150ml Sahne
+- 75g Parmesan, gerieben
+- 100g Babyspinat
+- Salz und Pfeffer
+- Optional: 1 TL Speisestärke in 1 EL kaltem Wasser (zum Binden)
+
+### Zubereitung
+1. Butter und Öl (aus dem Tomatenglas) in einer Pfanne bei mittlerer Hitze erhitzen. Zwiebel und Knoblauch darin 5 Minuten weich dünsten.
+2. Getrocknete Tomaten hinzugeben und 2 Minuten mitbraten.
+3. Brühe, Zitronensaft, Paprikapulver und Oregano einrühren. Aufkochen lassen.
+4. Sahne und Parmesan einrühren. Spinat hinzufügen und alles bei niedriger Hitze 5–7 Minuten köcheln lassen, bis die Sauce leicht eingedickt ist.
+5. Falls die Sauce zu dünn ist, Speisestärke-Wasser einrühren. Falls zu dick, etwas mehr Brühe oder Sahne zugeben.
+6. Parallel dazu Halloumi-Scheiben in einer separaten Pfanne ohne Öl von jeder Seite 2–3 Minuten goldbraun anbraten.
+7. Halloumi in die Sauce geben und sofort servieren. Passt gut zu Reis, Pasta oder Kartoffeln.
+
+---
+
+## Geröstete Gemüsesauce mit Pasta
+**Portionen:** 2
+**Protein pro Portion:** ~12g
+**Tags:** pasta, vegan, gemüse, ofengericht
+**Zeit:** ~50 Min. (inkl. Ofenzeit)
+
+### Zutaten
+- 190g Pasta (nach Wahl)
+- 4 Tomaten
+- 2 Paprika
+- 2 Zwiebeln
+- Etwas Knoblauch
+- Rosmarin, Thymian
+- Olivenöl
+- Salz, Pfeffer, Paprikapulver, Oregano, Chiliflocken
+- Zum Servieren: frischer Schnittlauch, gehackt, und Käse nach Wahl
+
+### Zubereitung
+1. Gemüse waschen, Kerne und Schalen entfernen. Mit Olivenöl und Gewürzen (nach Wunsch jetzt oder später abschmecken) in den Ofen geben und bei 160°C ca. 40 Minuten rösten.
+2. Pasta nach Packungsangabe kochen.
+3. Geröstetes Gemüse aus dem Ofen nehmen und pürieren.
+4. Gemüsesauce mit der Pasta vermengen, Gewürze nach Geschmack anpassen und mit frischem Schnittlauch und Käse servieren.
+
+---
+
+## Broccoli-Pasta mit Hähnchen
+**Portionen:** 2
+**Protein pro Portion:** ~42g
+**Tags:** pasta, hähnchen, cremig
+**Zeit:** ~30 Min.
+
+### Zutaten
+
+**Hähnchen**
+- 2 Hähnchenbrustfilets
+- 1 EL Hühnerbrühpulver
+- 1 EL Knoblauchpulver
+- 1 TL schwarzer Pfeffer
+- 1 TL italienische Kräuter
+- Etwas Olivenöl
+
+**Broccolisauce**
+- 1 EL Olivenöl
+- 1 mittelgroße Zwiebel, gehackt
+- 1 EL Knoblauch, gehackt (ca. 2–3 Zehen)
+- 500ml Sahne (oder Kaffeesahne)
+- 50g Mozzarella, gerieben
+- 1 EL Hühnerbrühpulver
+- 1 EL Knoblauchpulver
+- 2 EL getrocknete Tomaten, gehackt
+- 1 TL schwarzer Pfeffer
+- 1 TL Cayennepfeffer
+- 200g Brokkoli-Röschen
+- Pasta nach Wahl (ca. 180g)
+
+### Zubereitung
+1. Hähnchen mit allen Gewürzen einreiben. In einer Pfanne mit etwas Olivenöl bei mittlerer bis hoher Hitze von jeder Seite 5–6 Minuten durchbraten. Beiseitestellen und in Streifen schneiden.
+2. Pasta nach Packungsangabe kochen. Brokkoli in den letzten 3–4 Minuten mitkochen. Abgießen.
+3. In derselben Pfanne wie das Hähnchen Olivenöl erhitzen. Zwiebel 4–5 Minuten weich dünsten, dann Knoblauch und getrocknete Tomaten 1 Minute mitbraten.
+4. Sahne einrühren und aufköcheln lassen. Hühnerbrühpulver, Knoblauchpulver, Pfeffer und Cayenne einrühren.
+5. Mozzarella einrühren und bei niedriger Hitze 3–4 Minuten köcheln lassen, bis die Sauce leicht eingedickt ist.
+6. Pasta und Brokkoli in die Sauce geben und durchschwenken. Mit dem Hähnchen servieren.
