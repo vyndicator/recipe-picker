@@ -518,3 +518,6 @@ Zubereitung wie oben, mit folgenden Anpassungen:
 4. Sahne einrühren und aufköcheln lassen. Hühnerbrühpulver, Knoblauchpulver, Pfeffer und Cayenne einrühren.
 5. Mozzarella einrühren und bei niedriger Hitze 3–4 Minuten köcheln lassen, bis die Sauce leicht eingedickt ist.
 6. Pasta und Brokkoli in die Sauce geben und durchschwenken. Mit dem Hähnchen servieren.
+
+
+co-contributed
